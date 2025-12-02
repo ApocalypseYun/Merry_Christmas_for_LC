@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Interactive Christmas Tree",
+  "description": "A cinematic, Trump-style luxury 3D Christmas tree that reacts to camera motion gestures. Chaos meets Order in a golden emerald spectacle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
